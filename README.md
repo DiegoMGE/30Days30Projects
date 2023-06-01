@@ -14,6 +14,6 @@ Stay tuned for daily updates as I share my progress, code snippets, and insights
 
 ## Week 1
 
-[Day 1 - Simple Login Page](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day1) | <a href="https://codepen.io/_DiegoMGE_/pen/qBJedoB" target="_blank">Preview in CodePen</a>
+[Day 1 - Simple Login Page](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day1) | [Preview in CodePen](https://codepen.io/_DiegoMGE_/pen/qBJedoB)
 
 <h5 align="center">Everything was made with 💗</h5>
