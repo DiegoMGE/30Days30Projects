@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #1D3557;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.container {
+    background-color: #FFFFFF;
+    border-radius: 7px;
+    overflow: hidden;
+    max-width: 100%;
+    width: 550px;
+}
+.header {
+    border-bottom: 1px solid #F0F0F0;
+    padding: 20px 40px;
+    text-align: center;
+}
+.header h2 {
+    margin-bottom: 5px;
+}
+.header p {
+    color: #A3A8B6;
+}
+.form {
+    padding: 10px 150px 20px 150px;
+}
+.form-control {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+}
+.form-control label {
+    color:  #324044;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.form-control input {
+    border: 1px solid #C5C8D2;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 100%;
+}
+.misc {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.misc .remember-checkbox {
+    font-size: 13px;
+}
+.misc .remember-checkbox input {
+    border: 2px solid red;
+}
+.misc .forgot-password {
+    font-size: 13px;
+    text-decoration: none;
+}
+.submit-btn {
+    background-color: #4F93DE;
+    border: none;
+    border-radius: 7px;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    width: 100%;
+}
+.signup-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    width: 100%;
+}
