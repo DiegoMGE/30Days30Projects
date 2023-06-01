@@ -1,4 +1,6 @@
-<h1 align="center">30-Day Web Development Challenge: Exploring more about HTML, CSS, and JavaScript and more! 🚀</h1>
+<h1 align="center">30-Day Web Development Challenge 🚀</h1>
+
+#### Exploring about HTML, CSS, and JavaScript and more! 👩🏻‍💻
 
 Welcome to my 30-day challenge! Over the next month, I'll be working on 30 different projects, one each day, using HTML, CSS, and JavaScript. Along the way, I'll also be incorporating various web technologies, such as Bootstrap, to enhance my creations.
 
@@ -8,4 +10,4 @@ I invite you to join me on this journey as I tackle a wide range of ideas and co
 
 Stay tuned for daily updates as I share my progress, code snippets, and insights gained from each project. Let's embark on this exciting adventure of constant learning and innovation in the world of web development!
 
-Note: The README will be periodically updated with new projects and links to the corresponding code repositories.
+**Note:** The README will be periodically updated with new projects and links to the corresponding code repositories.
