@@ -11,3 +11,9 @@ I invite you to join me on this journey as I tackle a wide range of ideas and co
 Stay tuned for daily updates as I share my progress, code snippets, and insights gained from each project. Let's embark on this exciting adventure of constant learning and innovation in the world of web development!
 
 **Note:** The README will be periodically updated with new projects and links to the corresponding code repositories.
+
+## Week 1
+
+[Day 1 - Simple Login Page](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day1)
+
+<h5 align="center">Everything was made with 💗</h5>
