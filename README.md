@@ -1,4 +1,4 @@
-<h1 align="center">30 Projects in 30 Days 🚀</h1>
+<h1 align="center">30-Day Web Development Challenge: Exploring more about HTML, CSS, and JavaScript and more! 🚀</h1>
 
 Welcome to my 30-day challenge! Over the next month, I'll be working on 30 different projects, one each day, using HTML, CSS, and JavaScript. Along the way, I'll also be incorporating various web technologies, such as Bootstrap, to enhance my creations.
 
