@@ -13,10 +13,6 @@ function digitalClock() {
   hours.innerText = actualHour;
   minutes.innerText = actualMinutes;
   seconds.innerText = actualSeconds;
-
-  //   console.log(`
-  //         ${actualHour} : ${actualMinutes} : ${actualSeconds}
-  //     `);
 }
 
 setInterval(digitalClock, 1000);
