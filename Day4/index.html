@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day 4 - Contact Form</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script defer src="js/main.js"></script>
+  </head>
+  <body>
+    <div class="main-container">
+      <div class="container-form">
+        <div class="header">
+          <h2>Get in touch</h2>
+          <p>How can we start a conversation today?</p>
+        </div>
+        <form action="#" class="form" id="form">
+          <div class="form-control">
+            <input
+              id="fullname"
+              type="text"
+              name="fullname"
+              placeholder="full name"
+            />
+            <div id="error"></div>
+          </div>
+          <div class="form-control">
+            <input
+              id="email"
+              type="email"
+              name="Your email"
+              placeholder="email"
+              required
+            />
+            <div id="error"></div>
+          </div>
+          <div class="form-control">
+            <select name="options" id="optionsList">
+              <option value="option1">Business</option>
+              <option value="option2">Hire you</option>
+              <option value="option3">General</option>
+            </select>
+          </div>
+          <div class="form-control">
+            <textarea
+              name="message"
+              class="message"
+              id="message"
+              cols="30"
+              rows="10"
+              placeholder="Your message goes here..."
+            ></textarea>
+            <div id="error"></div>
+          </div>
+          <button type="submit" class="submit">Send Message</button>
+        </form>
+      </div>
+      <div class="alternative-contact">
+        <div class="header-alternative-contact">
+          <h2>Or check out these options:</h2>
+        </div>
+        <div class="card-telegram">
+          <div class="header-card-telegram">
+            <a href="#">
+              <img
+                src="images/telegramLogo.svg"
+                alt="Telegram oficial logo"
+                class="logo-telegram"
+              />
+            </a>
+          </div>
+          <div class="body-card-telegram">
+            <h3>Send me a message</h3>
+            <p>Something less formal? we can talk a bit too!</p>
+          </div>
+        </div>
+        <div class="card-linkedin">
+          <div class="header-card-linkedin">
+            <a href="#">
+              <img
+                src="images/linkedinLogo.png"
+                alt="Linkedin oficial logo"
+                class="logo-linkedin"
+              />
+            </a>
+          </div>
+          <div class="body-card-linkedin">
+            <h3>Grow our network</h3>
+            <p>Sharing goals, experiences or working together</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
