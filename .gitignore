@@ -1,0 +1,37 @@
+# Ignore compiled files and build artifacts
+*.o
+*.out
+*.pyc
+__pycache__/
+dist/
+build/
+
+# Ignore editor and IDE specific files
+.vscode/
+.idea/
+
+# Ignore operating system and editor backup files
+*~
+.DS_Store
+
+# Ignore dependencies and package files
+node_modules/
+package-lock.json
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.ico
+
+# Ignore image files in all folders
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.bmp
+**/*.svg
+**/*.ico
