@@ -35,3 +35,9 @@ package-lock.json
 **/*.bmp
 **/*.svg
 **/*.ico
+
+# Ignore files by me
+test.hml
+test.css
+test.js
+*.py
