@@ -12,14 +12,26 @@ Stay tuned for daily updates as I share my progress, code snippets, and insights
 
 **Note:** The README will be periodically updated with new projects and links to the corresponding code repositories.
 
-## Week 1
+## Week 1 🔥
 
-[Preview in CodePen](https://codepen.io/_DiegoMGE_/full/qBJedoB) |[Day 1 - Simple Login Page](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day1)
+- [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/qBJedoB) | [Day 1 - Simple Login Page](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day1)
 
-[Preview in CodePen](https://codepen.io/_DiegoMGE_/full/XWxvBNW) | [Day 2 - Digital Clock](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day2)
+- [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/XWxvBNW) | [Day 2 - Digital Clock](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day2)
 
-[Preview in CodePen](https://codepen.io/_DiegoMGE_/full/dygxxaw) | [Day 3 - Image Gallery](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day3)
+- [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/dygxxaw) | [Day 3 - Image Gallery](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day3)
 
-[Preview in CodePen](https://codepen.io/_DiegoMGE_/full/PoxYbEz) | [Day 4 - Contact Form](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day4)
+- [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/PoxYbEz) | [Day 4 - Contact Form](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day4)
+
+## Week 2 🔥
+
+-
+
+-
+
+-
+
+-
+
+-
 
 <h5 align="center">Everything was made with 💗</h5>
