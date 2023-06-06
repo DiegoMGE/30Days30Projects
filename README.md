@@ -24,14 +24,6 @@ Stay tuned for daily updates as I share my progress, code snippets, and insights
 
 ## Week 2 🔥
 
-- [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/PoxYbEz) | [Day 5 - Dropdown Menu](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day5)
-
--
-
--
-
--
-
--
+- [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/PoxYvaN) | [Day 5 - Dropdown Menu](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day5)
 
 <h5 align="center">Everything was made with 💗</h5>
