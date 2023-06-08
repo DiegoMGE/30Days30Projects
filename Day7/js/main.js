@@ -30,7 +30,7 @@ function updateInformation() {
   githubReplace.href = changeGithub;
   portfolioReplace.href = changePortfolio;
 
-  //   clean info.
+  //   clean inputs info.
   const inputsValue = document.querySelectorAll("input[type='text']");
   inputsValue.forEach((input) => {
     input.value = "";
