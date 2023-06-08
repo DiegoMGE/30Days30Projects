@@ -14,26 +14,64 @@
   </head>
   <body>
     <div class="container">
+      <div class="user-info">
+        <input
+          type="text"
+          name="firstname"
+          id="firstname"
+          placeholder="Your name"
+        />
+        <input
+          type="text"
+          name="lastname"
+          id="lastname"
+          placeholder="Position"
+        />
+        <input type="text" name="title" id="title" placeholder="title" />
+        <input
+          type="text"
+          name="link-1"
+          id="link-1"
+          placeholder="LinkedIn URL"
+        />
+        <input type="text" name="link-2" id="link-2" placeholder="Github URL" />
+        <input
+          type="text"
+          name="link-3"
+          id="link-3"
+          placeholder="Portfolio URL"
+        />
+        <button class="generate-info" id="generate-info">Generate</button>
+      </div>
       <div class="content-info">
         <div class="picture">
           <img
-            src="images/jakob-owens-lkMJcGDZLVs-unsplash.jpg"
+            src="images/joe-shields-dLij9K4ObYY-unsplash.jpg"
             alt="Personal picture"
           />
         </div>
-        <h2>Diego Orellana</h2>
-        <h3>Web Developer | Guatemala</h3>
-        <button class="message">Message</button>
+        <h2>
+          <span id="firstname-info">Diego</span>
+          <span id="lastname-info">Orellana</span>
+        </h2>
+        <h3><span id="title-info">Web Developer</span> | Guatemala</h3>
+        <button class="button-skills">More</button>
       </div>
       <div class="content-links">
         <li>
-          <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+          <a href="#" target="_blank" id="link-linkedin"
+            ><i class="fa-brands fa-linkedin"></i
+          ></a>
         </li>
         <li>
-          <a href="#"><i class="fa-brands fa-github"></i></a>
+          <a href="#" target="_blank" id="link-github"
+            ><i class="fa-brands fa-github"></i
+          ></a>
         </li>
         <li>
-          <a href="#"><i class="fa-solid fa-earth-americas"></i></a>
+          <a href="#" target="_blank" id="link-portfolio"
+            ><i class="fa-solid fa-earth-americas"></i
+          ></a>
         </li>
       </div>
     </div>
