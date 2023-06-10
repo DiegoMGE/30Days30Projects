@@ -6,10 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Day 8 - Image Carousel</title>
     <link rel="stylesheet" href="css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
     <script src="js/main.js" defer></script>
   </head>
   <body>
-    <div class="container-wrapper">
+    <div class="container">
+      <button class="carousel-btn-container carousel-prevBtn" id="prevBtn">
+        <i class="fa-solid fa-angle-left fa-xl"></i>
+      </button>
+
       <div class="container-images">
         <img
           src="images\alexandru-bogdan-ghita-UeYkqQh4PoI-unsplash.jpg"
@@ -22,8 +30,10 @@
         <img src="images/rhamely-WLPd5T2z-6M-unsplash.jpg" alt="" />
         <img src="images/thufeil-m-8igogcTHRC4-unsplash.jpg" alt="" />
       </div>
+
+      <button class="carousel-btn-container carousel-nextBtn" id="nextBtn">
+        <i class="fa-solid fa-angle-right fa-xl"></i>
+      </button>
     </div>
-    <button id="prevBtn">Prev</button>
-    <button id="nextBtn">Next</button>
   </body>
 </html>
