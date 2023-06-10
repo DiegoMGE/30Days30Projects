@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    font-size: 16px;
+}
+.container-wrapper {
+    border: 2px solid red;
+    margin-bottom: 20px;
+    overflow: hidden;
+    width: 600px;
+}
+.container-images {
+    display: flex;
+}
+.container-images > img {
+    height: 600px;
+    object-fit: cover;
+}
+button {
+    border: none;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 10px;
+    width: 250px;
+}
