@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
+    min-height: 100vh;
+}
+.container {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2em;
+    flex-grow:1;
+}
+.guess-result {
+    color: #6a040f;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.container-guess {
+    background-color: #E9ECEF;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    width: 400px;
+}
+.container-guess input {
+    border: 0;
+    border: 1px solid #adb5bd;
+    font-size: 1.5rem;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+    width: 50px;
+}
+.container-guess input:focus {
+    border:0;
+    border: 1px solid #adb5bd;
+}
+.container-guess button {
+    background-color: #001d3d;
+    border: 0;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 10px;
+    width: 100px;
+}
+.footer {
+    background: #001d3d;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    padding: 3em;
+    width: 100%;
+}
