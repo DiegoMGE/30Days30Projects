@@ -32,4 +32,6 @@ Stay tuned for daily updates as I share my progress, code snippets, and insights
 
 - [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/GRwJJZw) | [Day 8 - Image Carousel](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day8)
 
+- [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/RwqPKXG) | [Day 9 - Guessing Game](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day9)
+
 <h5 align="center">Everything was made with 💗</h5>
