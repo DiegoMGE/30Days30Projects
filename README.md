@@ -34,7 +34,7 @@ Stay tuned for daily updates as I share my progress, code snippets, and insights
 
 - [Preview in CodePen](https://codepen.io/_DiegoMGE_/full/RwqPKXG) | [Day 9 - Guessing Game](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day9)
 
-## Week 2 🔥
+## Week 3 🔥
 
 - [Preview in CodePen]() | [Day 10 - Personal Profile Page](https://github.com/DiegoMGE/30Days30Projects/tree/main/Day10)
 
