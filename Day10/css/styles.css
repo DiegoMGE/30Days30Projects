@@ -50,7 +50,6 @@ body {
   padding: 0.4rem 1.3rem;
 }
 .container {
-  /* border: 1px solid red; */
   display: grid;
   align-items: center;
   justify-content: center;
@@ -59,9 +58,6 @@ body {
   grid-template-rows: repeat(2, 1fr);
   padding: 1rem;
   width: 100%;
-}
-.container > * {
-  /* border: 1px solid hotpink; */
 }
 .aboutMe {
   font-size: 2.5rem;
@@ -80,7 +76,6 @@ body {
   width: 80%;
 }
 .projects {
-  /* border: 1px solid red; */
   padding: 10px;
 }
 .project {
@@ -119,4 +114,17 @@ body {
   height: 30px;
   padding: 3em;
   width: 100%;
+}
+
+@media (min-width: 1335px) {
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 0;
+  }
+  .container {
+    margin: 0 auto;
+    width: 70%;
+  }
 }
